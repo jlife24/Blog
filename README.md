@@ -1,0 +1,2 @@
+# Blog
+Cosmos Blog
